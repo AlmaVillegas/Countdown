@@ -21,7 +21,7 @@
     "cross-env": "^1.0.6",
     "babelify": "^7.2.0",
     "browserify": "^12.0.1",
-    "browserify-hmr": "^0.3.1",
+    "browserify-hmr": "^0.4.0",
     "http-server": "^0.9.0",
     "npm-run-all": "^1.6.0",
     "uglify-js": "^2.5.0",
